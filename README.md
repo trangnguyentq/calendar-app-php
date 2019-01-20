@@ -1,4 +1,4 @@
-Calendar App
+### Calendar App
 
 1. Share calendar with other user: user can choose to share their calendar with other user. Click on "Share calendar" and fill in the username of user you want to share your calendar with to share your calendar. Once your calendar has been shared, the user you share it with will be able to view your calendar by fill your username in the text field next to "View calendar of other user:". After click view, that user will be able to see your full calendar and click on a day to see what events you have for that day. That user will be able to go back to his/her calendar by clicking on "Back to my calendar".
 
